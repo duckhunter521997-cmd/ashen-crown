@@ -5,8 +5,8 @@
   "clientZipUrl": "https://github.com/duckhunter521997-cmd/ashen-crown/releases/download/client-v1/ashen-crown-client-v1.zip",
   "clientScriptVersion": "2",
   "clientScriptUrl": "https://github.com/duckhunter521997-cmd/ashen-crown/releases/download/client-v1/skymp5-client.js",   
-  "uiZipUrl": "https://github.com/duckhunter521997-cmd/ashen-crown/releases/download/client-v1/ashen-crown-ui-v8.zip",
-  "uiVersion": "8",
+  "uiZipUrl": "https://github.com/duckhunter521997-cmd/ashen-crown/releases/download/client-v1/ashen-crown-ui-v9.zip",
+  "uiVersion": "9",
   "masterUrl": "https://ashencrown.duckdns.org",
   "masterKey": "ashencrown",
   "skseUrl": "https://github.com/ianpatt/skse64/releases/download/v2.2.6/skse64_2_02_06.7z"
